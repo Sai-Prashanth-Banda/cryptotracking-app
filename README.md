@@ -1,3 +1,3 @@
-# covidtracking-app
+# cryptotracking-app
 
-This is a covid tracking app which displays data of covid cases per state in India.
+This is a crypto tracking app. It shows the current crypto rate.
